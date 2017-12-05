@@ -17,6 +17,6 @@ var config ={
     
     //Action Required : Need to set your app's specific value. Please README.MD file and follow "Update config.js" section.
     clientid : 'a0798ffe-1045-4959-9bb0-8c9ddbe6c7e9',//client id created in Azure AD
-    replyurl : 'http://localhost/oneappssfb',//replyurl you set in Azure AD
+    replyurl : 'http://devoneappsskype.azurewebsites.net',//replyurl you set in Azure AD
     appName : 'TestONeApps'//Application Name registered in Azure AD
 };
