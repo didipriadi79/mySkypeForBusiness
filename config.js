@@ -16,7 +16,7 @@ var config ={
     loginurl : 'https://login.microsoftonline.com/common/oauth2/authorize?response_type=token',//Microsoft OAuth login url for AAD.Fixed
     
     //Action Required : Need to set your app's specific value. Please README.MD file and follow "Update config.js" section.
-    clientid : 'a0798ffe-1045-4959-9bb0-8c9ddbe6c7e9',//client id created in Azure AD
-    replyurl : 'http://devoneappsskype.azurewebsites.net',//replyurl you set in Azure AD
-    appName : 'TestONeApps'//Application Name registered in Azure AD
+    clientid : '490111c5-d545-4222-98ad-9dbc650e3121',//client id created in Azure AD
+    replyurl : 'http://devoneappsskype.azurewebsites.net/',//replyurl you set in Azure AD
+    appName : 'ONeApps'//Application Name registered in Azure AD
 };
